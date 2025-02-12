@@ -7,17 +7,6 @@ import subsystems.impl.DVDPlayerImpl;
 import subsystems.impl.SoundSystemImpl;
 import subsystems.impl.TvSystemImpl;
 
-/**
- * --------------------------------------------
- * Author: Shamodha Sahan
- * GitHub: https://github.com/shamodhas
- * Website: https://shamodha.live
- * --------------------------------------------
- * Created: 2/6/2025 12:21 PM
- * Project: Design Patterns
- * --------------------------------------------
- **/
-
 // Facade
 public class HomeTheaterFacade implements HomeTheater {
     private TvSystem tvSystem;

@@ -2,17 +2,6 @@ package subsystems.impl;
 
 import subsystems.DVDPlayer;
 
-/**
- * --------------------------------------------
- * Author: Shamodha Sahan
- * GitHub: https://github.com/shamodhas
- * Website: https://shamodha.live
- * --------------------------------------------
- * Created: 2/6/2025 12:10 PM
- * Project: Design Patterns
- * --------------------------------------------
- **/
-
 public class DVDPlayerImpl implements DVDPlayer {
     @Override
     public void playMovie(String movieName) {

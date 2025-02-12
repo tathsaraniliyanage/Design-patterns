@@ -2,17 +2,6 @@ package subsystems.impl;
 
 import subsystems.TvSystem;
 
-/**
- * --------------------------------------------
- * Author: Shamodha Sahan
- * GitHub: https://github.com/shamodhas
- * Website: https://shamodha.live
- * --------------------------------------------
- * Created: 2/6/2025 12:14 PM
- * Project: Design Patterns
- * --------------------------------------------
- **/
-
 public class TvSystemImpl implements TvSystem {
     @Override
     public void setChannel(int channel) {
