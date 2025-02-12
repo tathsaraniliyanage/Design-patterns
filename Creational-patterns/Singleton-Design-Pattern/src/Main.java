@@ -1,14 +1,3 @@
-/**
- * --------------------------------------------
- * Author: Shamodha Sahan
- * GitHub: https://github.com/shamodhas
- * Website: https://shamodha.live
- * --------------------------------------------
- * Created: 2/6/2025 11:35 AM
- * Project: Design Patterns
- * --------------------------------------------
- **/
-
 public class Main {
     public static void main(String[] args) {
         GlobalHandler globalHandler1 = Singleton.getInstance().getGlobalHandler();
